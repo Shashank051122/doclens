@@ -2,7 +2,6 @@
 
 DocLens reads invoices and receipts and returns clean, checked, structured data, and it shows every step of the work live while it happens.
 
-![DocLens screenshot](docs/screenshot.png)
 
 ## What it does
 
